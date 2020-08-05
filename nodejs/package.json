@@ -13,7 +13,7 @@
     "body-parser": "^1.19.0",
     "ejs": "^2.7.4",
     "express": "^4.17.1",
-    "express-fileupload": "^0.4.0",
+    "express-fileupload": "^1.1.9",
     "mysql": "^2.18.0",
     "req-flash": "0.0.3"
   }
